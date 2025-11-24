@@ -206,5 +206,4 @@ AI/ML Engineer • Generative AI • Python Developer
 
 
 ---
-✅ Architecture diagram  
-Just tell me!
+
